@@ -1,0 +1,193 @@
+body {
+    margin: 0;
+}
+
+* {
+    background-color: #feefde;
+}
+
+.hr {
+    height: 3px;
+    background-color: #fbe8d8;
+    border: none;
+    margin-left: 200px;
+    margin-right: 250px
+}
+
+.mail {
+    width: 15px;
+    height: 15px;
+    margin-left: 700px;
+}
+
+.recherche {
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+}
+
+.header {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 25px;
+    margin-right: 5px;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-size: 10px;
+}
+
+.head {
+    margin-top: 5px;
+}
+
+.photo1 {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.droite1 {
+    margin-left: 20px;
+    margin-top: 100px;
+}
+
+h1 {
+    margin-top: -10px;
+}
+
+.photo2 {
+    display: flex;
+    margin-left: 200px;
+    width: 100;
+}
+
+.para2 {
+    text-align: center;
+}
+
+.droite2 {
+    margin-left: 10px;
+}
+
+.photo3 {
+    display: flex;
+    margin-left: 200px;
+    width: 100%;
+}
+
+.para3 {
+    text-align: center;
+}
+
+.para4 {
+    font-size: 15px;
+    text-align: center;
+}
+
+.photo4 {
+    display: flex;
+    margin-left: 200px;
+}
+
+.photo-8 {
+    margin-top: -60px;
+}
+
+.photo5 {
+    display: flex;
+    margin-left: 200px;
+}
+
+.milieu5 {
+    margin-top: -60px;
+}
+
+.photo6 {
+    display: flex;
+    margin-left: 200px;
+}
+
+.titre2 {
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+}
+
+.date {
+    text-align: center;
+}
+
+.milieu6 {
+    margin-top: 35px;
+}
+
+.milieu3,
+.milieu4,
+.milieu5,
+.milieu6 {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.milieu4 {
+    margin-top: -45px;
+}
+
+h2 {
+    font-family: 'DM Serif Display', serif;
+}
+
+.reseau {
+    height: 30px;
+}
+
+.pinterest {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+}
+
+.footer {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.droite7 {
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+.trait {
+    display: flex;
+}
+
+.trait1 {
+    margin-right: 5px;
+    padding-right: 30px;
+    height: 2px;
+    background-color: #616161;
+    margin-top: 2px;
+}
+
+.trait2 {
+    margin-top: -5px;
+}
+
+.home,
+.about,
+.contact,
+.single {
+    margin-right: 30px;
+}
+
+p {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-size: 10px;
+}
+
+.photo-1 {
+    height: 500px;
+}
+
+.photo-3 {
+    height: 21.7em;
+}

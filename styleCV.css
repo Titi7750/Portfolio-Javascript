@@ -1,0 +1,228 @@
+body{
+    margin: 0;
+}
+
+.global {
+    display: flex;
+}
+
+.general {
+    padding-left: 10px;
+    padding-top: 50px;
+}
+
+.gauche {
+    background-color: rgb(40, 58, 78);
+    position: relative;
+    padding: 5px;
+    flex-direction: column;
+    color: white;
+    margin-right: 25px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.contact-1 {
+    background-color: rgb(214, 127, 142);
+    padding: 2px;
+    font-weight: normal;
+}
+
+.contact-2 {
+    background-color: rgb(108, 206, 108);
+    padding: 2px;
+    font-weight: normal;
+}
+
+.contact-3 {
+    background-color: lightblue;
+    padding: 2px;
+    font-weight: normal;
+}
+
+.contact-4 {
+    background-color: orange;
+    padding: 2px;
+    font-weight: normal;
+    margin-top: 50px;
+}
+
+.photo-identite {
+    border-radius: 100px;
+    width: 180px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.peche {
+    height: 90px;
+    margin-left: 20px;
+}
+
+.trombone {
+    width: 100px;
+}
+
+.maison {
+    width: 50px;
+    padding: 20px;
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+}
+
+.mail {
+    width: 50px;
+    margin: 5px;
+    padding-left: 15px;
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+    margin-bottom: 20px;
+}
+
+.telephone {
+    width: 50px;
+    padding-left: 20px;
+    margin-right: 5px;
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+}
+
+h3 {
+    display: flex;
+}
+
+.photo-parametre {
+    width: 80px;
+}
+
+.exp {
+    padding-right: 500px;
+    margin-bottom: 0;
+}
+
+.exp~p {
+    margin-top: 0;
+}
+
+.experience {
+    display: flex;
+}
+
+.formation {
+    display: flex;
+}
+
+.form {
+    padding-right: 750px;
+    margin-bottom: 0;
+}
+
+.photo-formation {
+    width: 80px;
+}
+
+.diplome {
+    display: flex;
+}
+
+.dip {
+    padding-right: 670px;
+    margin-bottom: 0;
+}
+
+.photo-diplome {
+    width: 70px;
+}
+
+.langage {
+    width: 400px;
+}
+
+.competence {
+    width: 250px;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titre4 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 30px;
+}
+
+.gauche-1 {
+    display: flex;
+}
+
+.titre3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.titre1~p {
+    margin-top: 0;
+}
+
+.titre2 {
+    margin-bottom: 0;
+    padding-right: 680px;
+}
+
+.titre2~p {
+    margin-top: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 5px;
+}
+
+.titre4 {
+    font-weight: normal;
+}
+
+.profil-personnel {
+    display: flex;
+}
+
+.personne {
+    margin-top: 5px;
+    width: 55px;
+}
+
+.cursus {
+    display: flex;
+}
+
+.date {
+    margin-right: 20px;
+    margin-bottom: 0;
+}
+
+.color {
+    color: red;
+    margin-bottom: 0;
+}
+
+.paragraphe {
+    margin-top: 0;
+    color: darkgray;
+}
+
+.color-1{
+    margin-top: 0;
+    color: darkgray;
+}
+
+strong{
+    color: black;
+    font-weight: bold;
+}

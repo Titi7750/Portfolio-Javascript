@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: -1px;
+    position: absolute;
+    margin: 0;
+    margin-top: 6em;
+    margin-right: 42%;
+    right: 10px;
+    color: white;
+    text-shadow: 0 0 4px white;
+}
+
+.head {
+    position: sticky;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+
+.lien,
+.lien1 {
+    margin-left: 1em;
+    text-decoration: none;
+    color: white;
+    margin-top: 2em;
+}
+
+a:hover {
+    color: #000;
+}
+
+.info {
+    height: 5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.infor {
+    height: 5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.ado {
+    height: 5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.adob {
+    height: 5em;
+    margin-top: 1rem;
+    margin-bottom: 1em;
+}
+
+.off {
+    height: 8em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.offi {
+    height: 8em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.langages {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.adobe {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.office {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2 {
+    text-align: center;
+}

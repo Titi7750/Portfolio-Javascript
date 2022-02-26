@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    background-color: #1d1d1b;
+    font-family: montserrat;
+}
+
+.header {
+    display: flex;
+    background-color: #1d1d1b;
+    padding: 2em;
+}
+
+.logo1 {
+    width: 3em;
+    margin-right: 80%;
+    margin-left: 20px;
+}
+
+.lien {
+    text-decoration: none;
+    color: white;
+    background-color: #41ce69;
+    padding: 1em;
+    border-radius: 10em;
+}
+
+.head {
+    display: flex;
+    background-color: #41ce69;
+    padding: 20px;
+}
+
+.logo {
+    height: 30em;
+    margin-left: 10em;
+}
+
+.paragraphe {
+    margin-left: 2em;
+    margin-top: 3em;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.titre {
+    text-align: center;
+}
+
+.head1 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 6%;
+}
+
+.fond {
+    background-color: #1d1d1b;
+    padding-top: 5em;
+}
+
+.quoi {
+    background-color: #41ce69;
+    border-radius: 7em;
+    padding: 5em;
+    text-align: center;
+    color: white;
+}
+
+.quoi1 {
+    background-color: #41ce69;
+    border-radius: 7em;
+    padding: 5em;
+    text-align: center;
+    color: white;
+}
+
+.titre {
+    color: white;
+}
+
+.banque {
+    width: 10em;
+}
+
+.panneau {
+    width: 10em;
+}
+
+.image {
+    width: 10em;
+}
+
+.marche {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 7em;
+    padding: 2em;
+    text-align: center;
+    color: white;
+}
+
+.marche1 {
+    background-color: #41ce69;
+    border-radius: 5em;
+    padding: 2em;
+    text-align: center;
+    color: white;
+}
+
+.panneau-solaire {
+    width: 20em;
+}
+
+.titre1 {
+    text-align: center;
+    color: white;
+    margin-top: 2%;
+}
+
+.para {
+    text-align: center;
+    color: white;
+    margin-top: 5em;
+}
+
+.titre22 {
+    color: white;
+    text-align: center;
+}
+
+iframe {
+    margin-left: 37em;
+}
+
+.paraa {
+    text-align: center;
+    color: white;
+}
+
+.paraaa {
+    display: flex;
+    justify-content: space-around;
+}
+
+.photo11 {
+    width: 10em;
+}
+
+.photo12 {
+    width: 10em;
+}
+
+.lien1 {
+    text-decoration: none;
+    color: white;
+    background-color: #41ce69;
+    border-radius: 10em;
+    margin-left: 45.5%;
+    padding: 1em;
+}
+
+.hhhhhh {
+    margin-top: 2em;
+}
